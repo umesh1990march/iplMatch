@@ -1,0 +1,22 @@
+.latest-match-details-container {
+  margin-top: 10px;
+  background-color: black;
+  border-radius: 15px;
+  color: white;
+  border: 1px solid lightgreen;
+  padding: 20px;
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.latest-match-details-container img {
+  height: 100px;
+  width: 100px;
+  align-self: center;
+  margin-top: -30px;
+}
+
+.left-content {
+  text-align: right;
+}

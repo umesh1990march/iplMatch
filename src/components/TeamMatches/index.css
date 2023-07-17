@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.team-result-container {
+  padding: 30px;
+  min-height: 100vh;
+  background-image: linear-gradient(to top, red, brown);
+  display: flex;
+  flex-direction: column;
+}
+
+.banner-image {
+  height: 200px;
+  width: 100%;
+}

@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.team-logo {
+  height: 80px;
+  width: 80px;
+  margin-right: 10px;
+}
+.link-item {
+  list-style-type: none;
+  background-color: lightgray;
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  height: 100px;
+  width: 40%;
+}
+
+li div {
+  display: flex;
+  align-items: center;
+}
+
+.link-item {
+  text-decoration: none;
+}
